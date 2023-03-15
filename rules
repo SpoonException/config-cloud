@@ -10,7 +10,7 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=Ⓜ️ ChatGPT,https://raw.githubusercontent.com/anspoon/config-cloud/main/chatgpt.list
+;ruleset=Ⓜ️ ChatGPT,https://raw.githubusercontent.com/anspoon/config-cloud/main/chatgpt.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/anspoon/config-cloud/main/UnBan.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/anspoon/config-cloud/main/BanAD.list
